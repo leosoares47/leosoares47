@@ -1,7 +1,3 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://i.imgur.com/NjcSRz5.png" />
-&nbsp;&nbsp;&nbsp;
-
-
 <p align="center">Adoro novos desafios <br><br> Minha paixão por tecnologia me trouxe para o mundo da programação, onde encontro vastas possibilidades criativas. Estou sempre em busca de novos desafios e oportunidades para expandir meus horizontes nessa área emocionante. </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
