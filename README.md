@@ -1,4 +1,4 @@
-<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://github.com/kyronsatt/kyronsatt/assets/97697928/2c964a53-346e-4bab-b7ff-67ca000100d4" />
+<img align="center" style="margin-bottom:100px; object-fit: contain" width=100% src="https://scontent.fmgf12-1.fna.fbcdn.net/v/t39.30808-6/277706156_3104197519819557_4814940088499824914_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_ohc=1MUW5pmcNgUAb4g9FWO&_nc_ht=scontent.fmgf12-1.fna&oh=00_AfAIxW_0ggAtmFO-LBqV_9M4egLUO0Fu9Iz-7loUOUeUPA&oe=661E0348" />
 &nbsp;&nbsp;&nbsp;
 
 
